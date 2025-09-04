@@ -2,3 +2,5 @@
 
 This is a minimal profile UI which was made using react and vite.
 It mainly uses DaisyUI and TailwindCSS.
+
+link to site: https://simple-profile-ui-fmim.vercel.app/
