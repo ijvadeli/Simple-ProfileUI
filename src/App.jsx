@@ -22,7 +22,7 @@ function App() {
     {/*--- Avatar ---*/}
       <div className="avatar">
         <div className="w-24 rounded m-5">
-          <img src="public/avatar.png" />
+          <img src="/avatar.png" />
         </div>
       </div>
       <h1 className="mb-5 text-5xl font-bold">IJvadeli</h1>
