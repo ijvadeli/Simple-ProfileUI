@@ -1,8 +1,8 @@
 @import "tailwindcss";
 @import "tailwindcss-animated";
-@plugin "daisyui" {
-  themes: night;
-}
+ @plugin "daisyui" {
+   themes: light --default, black --prefersdark;
+ }
 
 .hero-overlay {
   background-color: rgba(0, 0, 0, 0.69);
