@@ -50,7 +50,7 @@ function App() {
 </div>
 {/*--- Hero ---*/}
 <div className="hero bg-base-200 min-h-screen">
-  <div className="hero-content flex-col lg:flex-row-reverse">
+  <div className="hero-content flex-col lg:flex-row-reverse delay-[300ms] duration-[600ms] taos:[transform:translate3d(0,200px,0)_scale(0.6)] taos:opacity-0" data-taos-offset="400">
     <img
       src="https://img.daisyui.com/images/profile/demo/batperson@192.webp"
       className="max-w-sm rounded-lg shadow-2xl"
